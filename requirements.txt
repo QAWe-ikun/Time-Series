@@ -1,0 +1,5 @@
+akshare==1.18.14
+numpy==2.4.1
+pandas==2.3.3
+pystata==0.0.1
+stata_setup==0.1.3
